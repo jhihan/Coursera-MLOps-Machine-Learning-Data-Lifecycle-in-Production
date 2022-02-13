@@ -1,1 +1,1 @@
-# Coursera-MLOps-Machine-Learning-Data-Lifecycle-in-Production
+# Coursera-Machine Learning Engineering for Production (MLOps) Specialization
